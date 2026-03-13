@@ -2,7 +2,7 @@
 
 This repository includes a starter **full-stack implementation** for your society-focused cleaning business using:
 - **Backend:** ASP.NET Core 8 Web API + Entity Framework Core (SQL Server)
-- **Frontend:** React + TypeScript (Vite)
+- **Frontend:** React + JavaScript (Vite)
 - **Database:** Microsoft SQL Server schema script
 
 ## Project structure
